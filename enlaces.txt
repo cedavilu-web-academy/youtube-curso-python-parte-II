@@ -1,0 +1,6 @@
+https://flask.palletsprojects.com
+https://numpy.org/doc/stable/
+https://scikit-learn.org/stable/
+https://pandas.pydata.org/
+https://openpyxl.readthedocs.io/en/stable/
+https://matplotlib.org/stable/
